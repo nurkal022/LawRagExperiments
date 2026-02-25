@@ -1,0 +1,235 @@
+БҰЙЫРАМЫН:
+
+1. "Бірыңғай кезекшілік-диспетчерлік "112" қызметіне қоңырау шалушы абоненттің орналасқан жерін анықтау және әлеуметтік, табиғи және техногендік сипаттағы төтенше жағдайлар қатері төнген немесе қатер туындаған және жойылған, төтенше жағдай енгізілген кезде, қорғаныс, қауіпсіздік және құқық тәртібі мүддесінде халықтың ұялы байланыс телефондарына қысқа мәтіндік хабарлар жіберу жөнінде қызметтер көрсету мақсатында байланыс операторларының желілерін пайдалану қағидаларын бекіту туралы" Қазақстан Республикасы Инвестициялар және даму министрінің міндетін атқарушының 2015 жылғы 30 желтоқсандағы № 1274 бұйрығына (Нормативтік құқықтық актілерді мемлекеттік тіркеу тізілімінде № 12802 болып тіркелген) мынадай өзгерістер мен толықтырулар енгізілсін:
+
+көрсетілген бұйрықпен бекітілген Бірыңғай кезекшілік-диспетчерлік "112" қызметіне қоңырау шалушы абоненттің орналасқан жерін анықтау және төтенше жағдайлар қатері төнген немесе туындаған және әлеуметтік, табиғи және техногендік сипаттағы төтенше жағдайлар қатерін болдырмау, төтенше жағдайды енгізу кезінде қорғаныс, қауіпсіздік және құқық тәртібі мүддесінде халықтың ұялы байланыс телефондарына қысқаша мәтіндік хабарламалар жіберу жөнінде қызметтер көрсету мақсатында байланыс операторларының желілерін пайдалану қағидаларында :
+
+1-тараудың тақырыбы мынадай редакцияда жазылсын:
+
+"1-тарау. Жалпы ережелер";
+
+1-тармақ мынадай редакцияда жазылсын:
+
+"1. Осы Бірыңғай кезекшілік-диспетчерлік "112" қызметіне қоңырау шалушы абоненттің орналасқан жерін анықтау және төтенше жағдайлар қатері төнген немесе туындаған және әлеуметтік, табиғи және техногендік сипаттағы төтенше жағдайлар қатерін болдырмау, төтенше жағдайды енгізу кезінде қорғаныс, қауіпсіздік және құқық тәртібі мүддесінде халықтың ұялы байланыс телефондарына қысқаша мәтіндік хабарламалар жіберу жөнінде қызметтер көрсету мақсатында байланыс операторларының желілерін пайдалану қағидалары (бұдан әрі – Қағидалар) "Байланыс туралы" Қазақстан Республикасының Заңы (бұдан әрі – Заң) 14-бабының 4-тармағына сәйкес әзірленді және бірыңғай кезекшілік-диспетчерлік "112" қызметіне қоңырау шалушы абоненттің орналасқан жерін анықтау және төтенше жағдайлар қатері төнген немесе туындаған және әлеуметтік, табиғи және техногендік сипаттағы төтенше жағдайлар қатерін болдырмау, төтенше жағдайды енгізу кезінде қорғаныс, қауіпсіздік және құқық тәртібі мүддесінде халықтың ұялы байланыс телефондарына қысқаша мәтіндік хабарламалар жіберу жөнінде қызметтер көрсету мақсатында байланыс операторларының желілерін пайдалану тәртібін айқындайды.";
+
+1-тармақ тақырыбы мынадай редакцияда жазылсын:
+
+"2-тарау. Бірыңғай кезекшілік-диспетчерлік "112" қызметіне қоңырау шалушы абоненттің орналасқан жерін анықтау және төтенше жағдайлар қатері төнген немесе туындаған және әлеуметтік, табиғи және техногендік сипаттағы төтенше жағдайлар қатерін болдырмау, төтенше жағдайды енгізу кезінде қорғаныс, қауіпсіздік және құқық тәртібі мүддесінде халықтың ұялы байланыс телефондарына қысқаша мәтіндік хабарламалар жіберу жөнінде қызметтер көрсету мақсатында байланыс операторларын пайдалану тәртібі";
+
+1-қосымшада :
+
+мынадай мазмұндағы реттік нөмірлері 16-1, 16-2, 16-3, 16-4, 16-5 және 16-6-жолдармен толықтырылсын:
+
+"
+
+
+16-1	|		|		|	Қазақ тілінде:XX.XX.XX.XX.XX-XXXXXXXXX…XXXXX...Х тас жолы жабық. Трассаны XX-XX км су басуыОрыс тілінде:Трасса XXXX...Хзакрыта. Переливчерез трассуXX-XX км	|	XX.XX.XX.XX.XX-XXXXXXXXX…XXXXX...Х tas zholy zhabyk. Trassany XX-XX km su basuTrassa XXXX…X zakryta. Pereliv cherez trassu XX-XX km
+16-2	|		|		|	Қазақ тілінде:XX.XX.XX.XX.XX-XXXXXXXXX…XXXXX...Х тас жолы ашықОрыс тілінде:Трасса XXXX...Х открыта	|	XX.XX.XX.XX.XX-XXXXXXXXX…XXXXX...Х tas zholy ashykTrassa XXXX…X otkryta
+16-3	|		|		|	Қазақ тілінде:ХХ.ХХ.ХХ ж.ХХХХХХХХ.. .XXXТеррористік қауіптіліктің сары деңгейі ұзартылдыОрыс тілінде:ХХ.ХХ.ХХ г.ХХХХХХХХ.. .XXXПродлен желтый уровень террористической опасности	|	ХХ.ХХ.ХХ zh.ХХХХХХХХ...XXXTerroristik kauiptiliktin sary dengei uzartyldyХХ.ХХ.ХХ g.ХХХХХХХХ...XXXProdlen jeltyi uroven terroristicheskoi opasnosti
+16-4	|		|		|	Қазақ тілінде:ХХ.ХХ.ХХ ж.ХХХХХХХХ.. .XXXТеррористік қауіптіліктің қызғылт сары деңгейі ұзартылдыОрыс тілінде:ХХ.ХХ.ХХ г.ХХХХХХХХ.. .XXXПродлен оранжевый уровень террористической опасности	|	ХХ.ХХ.ХХ zh.ХХХХХХХХ...XXXTerroristik kauiptiliktin kyzgylt sary dengei uzartyldyХХ.ХХ.ХХ g.ХХХХХХХХ...XXXProdlen oranjevyi uroven terroristicheskoi opasnosti
+16-5	|		|		|	Қазақ тілінде:ХХ.ХХ.ХХ ж.ХХХХХХХХ.. .XXXАнтитеррорлық жаттығу өткізілуде. Сабыр сақтауды сұраймызОрыс тілінде:ХХ.ХХ.ХХ г.ХХХХХХХХ.. .XXXПроводится антитеррористическое учение. Просьба соблюдать спокойствие	|	ХХ.ХХ.ХХ zh.ХХХХХХХХ...XXXAntiterrorlyk zhattygu otkizilude. Sabyr saktaudy suraimyzХХ.ХХ.ХХ g.ХХХХХХХХ...XXXProvoditsya antiterroristicheskoe uchenie. Prosba soblyudat spokoistvie
+16-6	|		|		|	Қазақ тілінде:Газ тұтынушы. Түтін мұржасындағы тартымды тексеріңіз және оның жарамдылығын бақылаңыз, көміртегі газы өлімге әкеледі. Сіздің өміріңіз сіздің қолыңыздаОрыс тілінде:Потребитель газа. Проверьте тягу в дымоходе и следите за его исправностью, угарный газ смертелен. Ваша жизнь в Ваших руках	|	Gaz tutynýshy. Tútin murjasyndaǵy tartymdy tekserińiz jáne onyń jaramdylyǵyn baqylańyz, kómirtegi gazy ólimge ákeledi. Sizdiń ómirińiz sizdiń qolyńyzdaPotrebitel' gaza. Proverte tyagu v dymohode i sledite za ego ispravnost'yu, ugarnyj gaz smertelen. Vasha zhizn' v Vashih rukah
+
+";
+
+реттік нөмірлері 22 және 23-жолдар мынадай редакцияда жазылсын:
+
+"
+
+
+22	|	Беткейдердің шайылуы (жаңбыр болғандықтан сел тасқыны)	|	20206	|	1) Қауіп-қатер кезінде:Қазақ тілінде:XX.XX.XX.XX.XX-XXXXXXXXX…XБеткейлерді шаю қатеріОрыс тілінде:Угроза склоновых смывов	|	1) Қауіп-қатер кезінде:XX.XX.XX.XX.XX-XXXXXXXXX…XBetkeilerdi shaiu kaypiUgroza sklonovyh smyvov
+2) Нақты жағдайда:Қазақ тілінде:XX.XX.XX.XX.XX-XXXXXXXXX…XБеткейлердің шайылуыОрыс тілінде:Склоновые смывы	|	2) Нақты жағдайда:XX.XX.XX.XX.XX- XXXXXXXXX…XBetkeilerdin shaiyluySklonovye smyvy
+3) Қауіп-қатер алынған кезде:Қазақ тілінде:XX.XX.XX.XX.XX-XXXXXXXXX…XБеткейлердің шайылу қатері жоқОрыс тілінде:Снятие угрозы склоновых смывов	|	3) Қауіп-қатер алынған кезде:XX.XX.XX.XX.XX-XXXXXXXXX…XBetkeilerdin shaiylu kateri zhokSnyatie ugrozy sklonovyh smyvov
+4) При угрозе:Каз яз:ХХ.ХХ.ХХ ж.ХХХХХХХХ.. .XXXКөлбеу ағын су күтілудеОрыс тілінде:Ожидаются склоновые стоки	|	4) При угрозе:ХХ.ХХ.ХХ zh.ХХХХХХХХ...XXXKölbeu ağyn su kütіludeOzhidayutsya sklonovye stoki
+1) Қауіп-қатер кезінде:Қазақ тілінде:XX.XX.XX.XX.XX-XXXXXXXXX…XXXXX...X жауын-шашыннан сел ағыныОрыс тілінде:Угроза селевого потока вследствие дождя в XXXX...X	|	1) Қауіп-қатер кезінде:XX.XX.XX.XX.XX-XXXXXXXXX…XXXXX...Xzhauyn-shashynnan sel agynyUgroza selevogo potoka vsledstvie dozhdya v XXXX…X
+2) Нақты жағдайда:Қазақ тілінде:XX.XX.XX.XX.XX-XXXXXXXXX…XXXXX...X жауын-шашыннан сел ағыны болдыОрыс тілінде:Вследствие дождя произошел селевой поток в XXXX...X	|	2) Нақты жағдайда:XX.XX.XX.XX.XX-XXXXXXXXX…XXXXX...X zhauyn-shashynnan sel agyny boldyVsledstvie dozhdya proizoshel selevoi potok v XXXX…X
+23	|	Көшкіндер	|	20210	|	1) Қауіп-қатер кезінде:Қазақ тілінде:XX.XX.XX.XX.XX-XXXXXXXXX…XКөшкін жүру қатеріОрыс тілінде:Угроза схода лавин	|	1) Қауіп-қатер кезінде:XX.XX.XX.XX.XX-XXXXXXXXX…XKoshkin zhüru kateriUgroza shoda lavin
+2) Нақты жағдайда:Қазақ тілінде:XX.XX.XX.XX.XX-XXXXXXXXXXКөшкін болдыОрыс тілінде:Сход лавин	|	2) Нақты жағдайда:XX.XX.XX.XX.XX-XXXXXXXXX…XKoshkin boldyShod lavin
+3) Қауіп-қатер алынған кезде:Қазақ тілінде:XX.XX.XX.XX.XX-XXXXXXXXX…XКөшкін жүру қатері жоқОрыс тілінде:Снятие угрозы схода лавин	|	3) Қауіп-қатер алынған кезде:XX.XX.XX.XX.XX-XXXXXXXXX…XKoshkin zhüru kateri zhokSnyatiye ugrozy shoda lavin
+1) Қауіп-қатер кезінде:Қазақ тілінде:XX.XX.XX.XX.XX-XXXXXXXXX…XДауылды алдын ала ескерту.XXXX...X көшкін жүру қатеріОрыс тілінде:Штормовое предупреждениеУгроза схода лавин в XXXX...X	|	1) Қауіп-қатер кезінде:XX.XX.XX.XX.XX-XXXXXXXXX…XDauyldy aldyn ala eskertu.XXXX...Xkoshkin zhüru kateriShtormovoe preduprezhdenie. Ugroza shoda lavin v XXXX…X
+2) Нақты жағдайда:Қазақ тілінде:XX.XX.XX.XX.XX-XXXXXXXXX…XXXXX...X көшкін болдыОрыс тілінде:Произошел сход лавин в XXXX...X	|	2) Нақты жағдайда:XX.XX.XX.XX.XX-XXXXXXXXX…XXXXX…X koshkin boldyProizoshel shod lavin v XXXX…X
+3) При планировании:Қазақ тілінде:XX.XX.XX.XX.XX-XXXXXXXXX…XПрофилактикалық көшкін түсіру жүргізіледіОрыс тілінде:Будет произведен профилактический спуск лавин на XXXXXXXXX…X	|	3) XX.XX.XX.XX.XX-XXXXXXXXX…XProfilaktikalyq koshkin tusiru zhurgizilediBudet proizveden profilakticheskiispusk lavin na XXXXXXXXX…X
+4) Нақты жағдайда:Қазақ тілінде:XX.XX.XX.XX.XX-XXXXXXXXX…XПрофилактикалық көшкін түсіруОрыс тілінде:Профилактический спуск лавин на XXXXXXXXXX	|	4) XX.XX.XX.XX.XX-XXXXXXXXX…X Profilaktikalyk koshkin tüsiruProfilakticheskii spusk lavin na XXXXXXXX…X
+
+";
+
+реттік нөмірі 31-жол мынадай редакцияда жазылсын:
+
+"
+
+
+31	|	Нөсер жауын (жауын)	|	20308	|	1) Қауіп-қатер кезінде:Қазақ тілінде:XX.XX.XX.XX.XXXXXXXXXXX…XНөсер жауын күтілудеОрыс тілінде:Ожидается сильный дождь	|	1) Қауіп-қатер кезінде:XX.XX.XX.XX.XXXXXXXXXXX…XNoser zhauyn kütiludeOzhidaetsya silnyi dozhd
+2) Нақты жағдайда:Қазақ тілінде:XX.XX.XX.XX.XXXXXXXXXXX…XНөсер жауынОрыс тілінде:Сильный дождь	|	2) Нақты жағдайда:XX.XX.XX.XX.XXXXXXXXXXX…XNoser zhauynSilnyi dozhd
+3) Қауіп-қатер алынған кезде:Қазақ тілінде:XX.XX.XX.XX.XXXXXXXXXXXXНөсер жауын күтілу қатері жоқОрыс тілінде:Снятие угрозы сильного дождя	|	3) Қауіп-қатер алынған кезде:XX.XX.XX.XX.XXXXXXXXXXX…XNoser zhauyn kütilu kateri zhokSnyatie ugrozy silnogo dozhdya
+4) Қауіп-қатер кезінде:Қазақ тілінде:XX.XX.XX.XX.XX XXXXXXXXX…X Нөсер жауын күтілудеОрыс тілінде:Ожидается дождь (ливень)	|	4) XX.XX.XX.XX.XXXXXXXXXXX…XNoser zhauyn kütiludeOzhidaetsya dozhd (liven)
+5) Нақты жағдайда:Қазақ тілінде:XX.XX.XX.XX.XXXXXXXXXXX…XНөсер жауынОрыс тілінде:Дождь (ливень)	|	5) XX.XX.XX.XX.XXXXXXXXXXX…XNoser zhauynDozhd (liven)
+6) Қауіп-қатер кезінде:Қазақ тілінде:XX.XX.XX.XX.XXXXXXXXXXX…XДауылды алдын ала ескерту. ХХХХ...Х аумағында қарға ауысатын жауынОрыс тілінде:Штормовое предупреждение. Дождь с переходом в снег на территории ХХХХ...Х	|	6) XX.XX.XX.XX.XXXXXXXXXXX…XDauyldy aldyn ala eskertu. ХХХХ...Х aumagynda karga auysatyn zhauynShotormovoe preduprezhdenie. Dozhd s perehodom v sneg na territorii ХХХХ...Х
+
+";
+
+реттік нөмірі 34-жол мынадай редакцияда жазылсын:
+
+"
+
+
+34	|	Қалың қар	|	20311	|	1) Қауіп-қатер кезінде:Қазақ тілінде:XX.​XX.​XX.​XX.​XXXXXXXXXXX…XҚалың қар күтілудеОрыс тілінде:Ожидается сильный снегопад	|	1) Қауіп-қатер кезінде:XX.​XX.​XX.​XX.​XXXXXXXXXXX…XKalyn kar kütiludeOzhidaetsya silnyi snegopad
+2) Нақты жағдайда:Қазақ тілінде:XX.​XX.​XX.​XX.​XXXXXXXXXXXXҚалың қарОрыс тілінде:Сильный снегопад	|	2) Нақты жағдайда:XX.​XX.​XX.​XX.​XXXXXXXXXXX…XKalyn karSilnyi snegopad
+3) Қауіп-қатер алынған кезде:Қазақ тілінде:XX.​XX.​XX.​XX.​XXXXXXXXXXX…XҚалың қар қатері жоқОрыс тілінде:Снятие угрозы сильного снегопада	|	3) Қауіп-қатер алынған кезде:XX.​XX.​XX.​XX.​XXXXXXXXXXX…XQalyn qar qateri zhokSnyatie ugrozy silnogo snegopada
+1) Қауіп-қатер кезінде:Қазақ тілінде:XX.​XX.​XX.​XX.​XXXXXXXXXXX…XДауылды алдын ала ескерту.ХХХХ...Х ауданында қалың қар, боран күтiлуде.Орыс тілінде:Штормовое предупреждение.Ожидается сильный снегопад, метель в районе XXXX...X	|	1) Қауіп-қатер кезінде:XX.​XX.​XX.​XX.​XXXXXXXXXXX…XDauyldy aldyn ala eskertu. XXXX..X audanynda kalyn kar, boran kutilydeShotormovoe preduprezhdenie.Ozhidaetsya silnyi snegopad, metel v raione XXXX…X
+2) Нақты жағдайда:Қазақ тілінде:XX.​XX.​XX.​XX.​XXXXXXXXXXX…XXXXX...X аумағында қалың қар, боран.Көрінуі ХХм. дейін, ХХХХ...Х жолдары жабықОрыс тілінде:Сильный снегопад, метель в районе XXXX...X. Видимость до XXм. Движение закрыто на дорогах XXXХ…Х	|	2) Нақты жағдайда:XX.​XX.​XX.​XX.​XXXXXXXXXXX…XXXXX…X aumagynda kalyn kar, boran.Korinui XXm. deiin, XXXX…X zholdar zhabykSilnyi snegopad, metel v raione XXXX…X.​Vidimost do XX m.​dvi​zhen​ie zakryto na dorogah XXXX...X
+3) Нақты жағдайда:Қазақ тілінде:XX.​XX.​XX.​XX.​XX-XXXXXXXXX…XXXXX...Х тас жолы жабық. Қалың қарОрыс тілінде:Трасса XXXX...Х закрыта. Сильный снегопад	|	4) XX.​XX.​XX.​XX.​XX-XXXXXXXXX…XXXXX...Х tas zholy zhabyk.Kalyn каrTrassa XXXX…X zakryta.Silnyi snegopad
+4) Қауіп-қатер кезінде:Қазақ тілінде:XX.​XX.​XX.​XX.​XXXXXXXXXXX…XҚар жауу күтілудеОрыс тілінде:Ожидается снегопад	|	5) XX.​XX.​XX.​XX.​XXXXXXXXXXX…XKar zhauu kutiludeOzhidaetsya snegopad
+5) Нақты жағдайда:Қазақ тілінде:XX.​XX.​XX.​XX.​XXXXXXXXXXXXҚар жаууОрыс тілінде:Снегопад	|	XX.​XX.​XX.​XX.​XXXXXXXXXXX…XKar zhauuSnegopad
+
+";
+
+реттік нөмірі 36, 37, 38, 39, 40-жолдар мынадай редакцияда жазылсын:
+
+"
+
+
+36	|	Қатты бұрқасын	|	20314	|	1) Қауіп-қатер кезінде:Қазақ тілінде:XX.XX.XX.XX.XXXXXXXXXXX…XҚатты бұрқасын қатеріОрыс тілінде:Угроза сильной метели	|	1) Қауіп-қатер кезінде:XX.XX.XX.XX.XX-XXXXXXXXX…XKatty burkasin kateriUgroza silnoy meteli
+2) Нақты жағдайда:Қазақ тілінде:XX.XX.XX.XX.XXXXXXXXXXX…XҚатты бұрқасынОрыс тілінде:Сильная метель	|	2) Нақты жағдайда:XX.XX.XX.XX.XX-XXXXXXXXX…XKatty burkasinSilnaya metel
+3) Қауіп-қатер алынған кезде:Қазақ тілінде:XX.XX.XX.XX.XXXXXXXXXXX…XҚатты бұрқасын қатері жоқОрыс тілінде:Снятие угрозы сильной метели	|	3) Қауіп-қатер алынған кезде:XX.XX.XX.XX.XX-XXXXXXXXX…XKatty burkasin kateri zhoкSnyatie ugrozy silnoy meteli
+4) Нақты жағдайда:Қазақ тілінде:XX.XX.XX.XX.XX-XXXXXXXXX…XХХ м/с қатты бұрқасын жел. Х ауысым Х-ХХ сыныптарында сабақ болмайдыОрыс тілінде:Сильная метель, ветер ХХ м/с. Отмена занятий Х-ХХ класс Х смены	|	4) XX.XX.XX.XX.XX-XXXXXXXXX…XXX m/s кatty burkasyn zhel. Х ausym Х-ХХsynyptarynda sabak bolmaidySilnaya metel, veter XX m/s.Otmena zanyatii X-XX klass Х smeny
+37	|	Қатты көктайғақ	|	20315	|	1) Қауіп-қатер кезінде:Қазақ тілінде:XX.XX.XX.XX.XXXXXXXXXXX…XҚатты көктайғақ қатеріОрыс тілінде:Угроза сильного гололеда	|	1) Қауіп-қатер кезінде:XX.XX.XX.XX.XXXXXXXXXXX…XKatty koktaigak kateriUgroza silnogo gololeda
+2) Нақты жағдайда:Қазақ тілінде:XX.XX.XX.XX.XXXXXXXXXXX…XҚатты көктайғақОрыс тілінде:Сильный гололед	|	2) Нақты жағдайда:XX.XX.XX.XX.XXXXXXXXXXX…XKatty koktaigakSilnyi gololed
+3) Қауіп-қатер алынған кезде:Қазақ тілінде:XX.XX.XX.XX.XXXXXXXXXXX…XҚатты көктайғақ қатері жоқОрыс тілінде:Снятие угрозы сильного гололеда	|	3) Қауіп-қатер алынған кезде:XX.XX.XX.XX.XXXXXXXXXXX…XKatty koktaigak kateri zhokSnyatie ugrozy silnogo gololeda
+4) Нақты жағдайда:Қазақ тілінде:XX.XX.XX.XX.XX-XXXXXXXXX…XКөктайғақ. Х ауысым Х-ХХ сыныптарында сабақ болмайдыОрыс тілінде:Гололед. Отмена занятий Х-ХХ класс Х смены	|	4) XX.XX.XX.XX.XX-XXXXXXXXX…XKoktaigak. Х ausym X-XX synyptarynda sabak bolmaidyGololed. Otmena zanyatii X-XX klass Х smeny
+1) Қауіп-қатер кезінде:Қазақ тілінде:XX.XX.XX.XX.XXXXXXXXXXX…XКөктайғақ қатеріОрыс тілінде:Угроза гололеда	|	1) XX.XX.XX.XX.XXXXXXXXXXX…XKoktaigak kateriUgroza gololeda
+2) Нақты жағдайда:Қазақ тілінде:XX.XX.XX.XX.XXXXXXXXXXX…XКөктайғақОрыс тілінде:Гололед	|	2) XX.XX.XX.XX.XXXXXXXXXXX…XKoktaigakGololed
+3) Қауіп-қатер алынған кезде:Қазақ тілінде:XX.XX.XX.XX.XXXXXXXXXXX…Xкөктайғақ қатері жоқОрыс тілінде:Снятие угрозы гололеда	|	3) XX.XX.XX.XX.XXXXXXXXXXX…XKoktaigak kateri zhokSnyatie ugrozy gololeda
+38	|	Қатты аяз	|	20316	|	1) Қауіп-қатер кезінде:Қазақ тілінде:XX.XX.XX.XX.XXXXXXXXXXX…XҚатты аяз күтілудеОрыс тілінде:Ожидается сильный мороз	|	1) Қауіп-қатер кезінде:XX.XX.XX.XX.XXXXXXXXXXX…XKatty ayaz kü tiludeOzhidaetsya silnyi moroz
+2) Нақты жағдайда:Қазақ тілінде:XX.XX.XX.XX.XXXXXXXXXXX…Қатты аязОрыс тілінде:Сильный мороз	|	2) Нақты жағдайда:XX.XX.XX.XX.XXXXXXXXXXX…XKatty ayazSilnyi moroz
+3) Қауіп-қатералынған кезде:Қазақ тілінде:XX.XX.XX.XX.XXXXXXXXXX…XҚатты аязқатері жоқОрыс тілінде:Снятие угрозысильного мороза	|	3) Қауіп-қатер алынған кезде:XX.XX.XX.XX.XXXXXXXXXXX…XKatty ayaz kateri zhokSnyatie ugrozy silnogo moroza
+4) Нақты жағдайда:Қазақ тілінде:XX.XX.XX.XX.XX-XXXXXХХХХ…ХXXXX...Х тас жолы жабық. Қатты аязОрыс тілінде:Трасса XXXX...Х закрыта.Сильный мороз	|	4) XX.XX.XX.XX.XX-XXXXXХХХХ…ХXXXX...Х tas joly jabyq.Qatty aıazTrassa XXXX...Х zakryta.Silnyi moroz
+1) Қауіп-қатер кезінде:Қазақ тілінде:XX.XX.XX.XX.XXXXXXXXXXX…XАяз күтілудеОрыс тілінде:Ожидается мороз	|	1) XX.XX.XX.XX.XXXXXXXXXXX…XAıaz kütilýdeOzhidaetsya moroz
+2) Нақты жағдайда:Қазақ тілінде:XX.XX.XX.XX.XXXXXXXXXXX…XX  C дейін аязОрыс тілінде:Мороз до ХХ С	|	2) XX.XX.XX.XX.XXXXXXXXXXX…XXX C deıin aıazMoroz dо ХХ С
+3) Қауіп-қатер алынған кезде:Қазақ тілінде:XX.XX.XX.XX.XXXXXXXXXXX…XАяз қатері жоқОрыс тілінде:Снятие угрозы мороза	|	3) XX.XX.XX.XX.XXXXXXXXXXX…XAıaz qateri joqSnyatie ugrozy moroza
+39	|	Қатты ыстық	|	20317	|	1) Қауіп-қатер кезінде:Қазақ тілінде:XX.XX.XX.XX.XXXXXXXXXXX…XХХ Ү С дейін қатты ыстық күтілудеОрыс тілінде:Ожидается сильная жара до ХХ Ү С	|	1) Қауіп-қатер кезінде:XX.XX.XX.XX.XXXXXXXXXXX…XXX Ү С deiin katty ystyk kütiludeOzhidaetsya silnaya zhara do XX Ү С
+2) Нақты жағдайда:Қазақ тілінде:XX.XX.XX.XX.XXXXXXXXXXX…XХХ ҮС дейін қатты ыстықОрыс тілінде:Сильная жара до ХХ ҮС	|	2) Нақты жағдайда:XX.XX.XX.XX.XXXXXXXXXXX…XXX ҮС deiin katty ystykSilnaya zhara do XX ҮС
+3) Қауіп-қатер алынған кезде:Қазақ тілінде:XX.XX.XX.XX.XXXXXXXXXXX…X ХХ ҮС дейін қатты ыстық болу қатері жоқОрыс тілінде:Снятие угрозы сильной жары до ХХ ҮС	|	3) Қауіп-қатер алынған кезде:XX.XX.XX.XX.XXXXXXXXXXX…XXX ҮС deiin katty ystyk bolu kateri zhokSnyatie ugrozy silnoi zhary do XX ҮС
+1) Қауіп-қатер кезінде:Қазақ тілінде:XX.XX.XX.XX.XXXXXXXXXXX…XДауылды алдын ала ескерту.ХХ ҮС дейінқатты ыстық.Орыс тілінде:Штормовое предупреждение. Повышение температуры до ХХ ҮС	|	1) Қауіп-қатер кезінде:XX.XX.XX.XX.XXXXXXXXXXX…XDauyldy aldyn ala eskertu.XX ҮС deiin qatty ystyq.Shtormovoe preduprezhdenie.Povyshenie temperatury do XX ҮС
+2) Қауіп-қатер кезінде:Қазақ тілінде:XX.XX.XX.XX.XXXXXXXXXXX…XХХ ҮС дейін ыстық күтілудеОрыс тілінде:Ожидается жара до ХХ ҮС	|	2) XX.XX.XX.XX.XXXXXXXXXXX…XXX ҮС deiin ystyq kütiludeOzhidaetsya zhara do XX ҮС
+3) Нақты жағдайда:Қазақ тілінде:XX.XX.XX.XX.XXXXXXXXXXX…XХХ ҮС дейін ыстықОрыс тілінде:Жара до ХХ ҮС	|	3) XX.XX.XX.XX.XXXXXXXXXXX…XXX ҮС deiin ystykZhara do XX ҮС
+4) Қауіп-қатер алынған кезде:Қазақ тілінде:XX.XX.XX.XX.XXXXXXXXXXX…XХХ ҮС дейін ыстық болу қатері жоқОрыс тілінде:Снятие угрозы жары до ХХ ҮС	|	4) XX.XX.XX.XX.XXXXXXXXXXX…XXX ҮС deiin ystyk bolu kateri zhokSnyatie ugrozy zhary do XX ҮС
+40	|	Қалың тұман	|	20318	|	1) Қауіп-қатер кезінде:Қазақ тілінде:XX.XX.XX.XX.XXXXXXXXXXX…XҚалың тұман күтілудеОрыс тілінде:Ожидается сильный туман	|	1) Қауіп-қатер кезінде:XX.XX.XX.XX.XXXXXXXXXXX…XKalyn tuman kütiludeOzhidaetsya silnyi tuman
+2) Нақты жағдайда:Қазақ тілінде:XX.XX.XX.XX.XXXXXXXXXXX…XҚалың тұманОрыс тілінде:Сильный туман	|	2) Нақты жағдайда:XX.XX.XX.XX.XXXXXXXXXXX…XKalyn tumanSilnyi tuman
+3) Қауіп-қатер алынған кезде:Қазақ тілінде:XX.XX.XX.XX.XXXXXXXXXXX…XҚалың тұман қатері жоқОрыс тілінде:Снятие угрозы сильного тумана	|	3) Қауіп-қатер алынған кезде:XX.XX.XX.XX.XXXXXXXXXXX…XQalyn tuman qateri zhoqSnyatie ugrozy silnogo tumana
+1) Қауіп-қатер кезінде:Қазақ тілінде:XX.XX.XX.XX.XXXXXXXXXXX…XДауылды алдын ала ескерту.ХХХХ...Х жолдарында қалың тұманОрыс тілінде:Штормовое предупреждение.Сильный туман на дорогах XXXX…Х	|	1) Қауіп-қатер кезінде:XX.XX.XX.XX.XXXXXXXXXXX…XDauyldy aldyn ala eskertu.ХХХХ...Х zholdarynda kalyn tumanShotormovoe preduprezhdenie. Silnyi tuman na dorogah XXXX…X
+2) Нақты жағдайда:Қазақ тілінде:XX.XX.XX.XX.XXXXXXXXXXX…XҚалың тұман, көрінуі ХХ м дейінОрыс тілінде:Сильный туман на дорогах XXXX…Х, видимость до ХХм	|	2) Нақты жағдайда:XX.XX.XX.XX.XXXXXXXXXXX…XKalyn tuman, korinu XX m deiinSilnyi tuman na dorogah XXXX…X, vidimost do XX m
+1) Нақты жағдайда:Қазақ тілінде:XX.XX.XX.XX.XX-XXXXXХХХХ…ХXXXX...Х тас жолы жабық. Қалың тұманОрыс тілінде:Трасса XXXX...Х закрыта. Сильный туман	|	1) XX.XX.XX.XX.XX-XXXXXХХХХ…ХXXXX...Х tas zholy zhabyk. Kalyn tumanTrassa XXXX…X zakryta.Silnyi tuman
+2) Қауіп-қатер кезінде:Қазақ тілінде:XX.XX.XX.XX.XX-XXXXXХХХХ…ХXXXX...Х тас жолы жабық. Тұман күтілудеОрыс тілінде:Трасса XXXX...Х закрыта. Ожидается туман	|	2) XX.XX.XX.XX.XX-XXXXXХХХХ…ХXXXX...Х tas zholy zhabyk.Tuman kütiludeTrassa XXXX…X zakryta. Ozhidaetsya tuman
+3) Қауіп-қатер кезінде:Қазақ тілінде:XX.XX.XX.XX.XXXXXXXXXXX…XТұман күтілудеОрыс тілінде:Ожидается туман	|	3) XX.XX.XX.XX.XXXXXXXXXXX…XTuman kutiludeOzhidaetsya tuman
+4) Нақты жағдайда:Қазақ тілінде:XX.XX.XX.XX.XXXXXXXXXXX…XТұманОрыс тілінде:Туман	|	4) XX.XX.XX.XX.XXXXXXXXXXX…XTumanTuman
+5) Қауіп-қатер алынған кезде:Қазақ тілінде:XX.XX.XX.XX.XXXXXXXXXXX…XТұман қатері жоқОрыс тілінде:Снятие угрозы тумана	|	5) XX.XX.XX.XX.XXXXXXXXXXX…XTuman qateri zhoqSnyatie ugrozy tumana
+
+";
+
+реттік нөмірі 46-жол мынадай редакцияда жазылсын:
+
+"
+
+
+46	|	Боран	|	20324	|	1) Қауіп-қатер кезінде:Қазақ тілінде:XX.XX.XX.XX.XX-XXXXXXXXX…X ХХ м/с дейінгі боран болу қатеріОрыс тілінде:Угроза бурана до ХХ м/с	|	1) Қауіп-қатер кезінде:XX.XX.XX.XX.XX-XXXXXXXXX…XXX m/s deyingi boran bolu kateriUgroza burana do XX m/s
+2) Нақты жағдайда:Қазақ тілінде:XX.XX.XX.XX.XX-XXXXXXXXX…XХХ м/с дейінгі боранОрыс тілінде:Буран до ХХ м/с	|	2) Нақты жағдайда:XX.XX.XX.XX.XX-XXXXXXXXX…XXX m/s deyingi boranBuran do XX m/s
+3) Қауіп-қатер алынған кезде:Қазақ тілінде:XX.XX.XX.XX.XX-XXXXXXXXX…XХХ м/с дейінгі боран болу қатері жоқОрыс тілінде:Снятие угрозы буранa до ХХ м/с	|	3) Қауіп-қатер алынған кезде:XX.XX.XX.XX.XX-XXXXXXXXX…XXX m/s deiingi boran bolu kateri zhokSnyatie ugrozy burana do XX m/s
+4) Нақты жағдайда:Қазақ тілінде:XX.XX.XX.XX.XX-XXXXXXXXX…XXXXX...Х тас жолы жабық. Күшті боранОрыс тілінде:Трасса XXXX...Х закрыта. Сильный буран	|	4) XX.XX.XX.XX.XX-XXXXXXXXX…XXXXX...Х tas zholy zhabyk.Kushti boranTrassa XXXX…X zakryta.Silnyi buran
+
+";
+
+реттік нөмірі 49-жол мынадай редакцияда жазылсын:
+
+"
+
+
+49	|	Теңіз деңгейінің қатты тербелуі	|	20404	|	1) Қауіп-қатер кезінде:Қазақ тілінде:XX.XX.XX.XX.XX-XXXXXXXXX…XТеңіз деңгейінің қатты тербелу қатеріОрыс тілінде:Угроза сильного колебания уровня моря	|	1) Қауіп-қатер кезінде:XX.XX.XX.XX.XX-XXXXXXXXX…XTeniz dengeyinin katty terbelu kateriUgroza silnogo kolebanya urovnya morya
+2) Нақты жағдайда:Қазақ тілінде:XX.XX.XX.XX.XX-XXXXXXXXX…XТеңіз деңгейінің қатты тербелуіОрыс тілінде:Сильное колебание уровня моря	|	2) Нақты жағдайда:XX.XX.XX.XX.XX-XXXXXXXXX…XTeniz dengeyinin katty terbeluiSilnoye kolebanye urovnya morya
+3) Қауіп-қатер алынған кезде:Қазақ тілінде:XX.XX.XX.XX.XX-XXXXXXXXX…XТеңіз деңгейінің қатты тербелу қатері жоқОрыс тілінде:Снятие угрозы сильного колебания уровня моря	|	3) Қауіп-қатер алынған кезде:XX.XX.XX.XX.XX-XXXXXXXXX…XTeniz dengeyinin katty terbelu kateri zhokSnytie ugrozy silnogo kolebanya urovnya morya
+4) Қауіп-қатер кезінде:Қазақ тілінде:XX.XX.XX.XX.XXXXXXXXXX…XXXXXXXX…X жел, жоғары толқындар күтілуде.Теңізге жүзу құралдарымен шығуға және шомылғу болмайдыОрыс тілінде:Ожидается ветер XXXXXXXXX…, высокие волны. Не выходить на море на плавательных средствах и для купания.	|	4) Қауіп-қатер кезінде:XX.XX.XX.XX.XXXXXXXXXXX…XXXXXXXXXX…X jel, joğary tolqyndar kütılude. Teñızge jüzu qūraldarymen shyguga jäne şomylyga bolmaidyOzhidaetsya veter XXXXXXXXX…X, vysokie volnye. Ne vyxodit na more na plavatelnyx sredstvax i dlya kupaniya.
+1) Қауіп-қатер кезінде:Қазақ тілінде:XX.XX.XX.XX.XX-XXXXXXXXX…XДауылды алдын ала ескерту. XXXX…X участкесінде жел көтерген толқындарОрыс тілінде:Штормовое предупреждение. Нагонные волны на участке XXXX…X	|	1) Қауіп-қатер кезінде:XX.XX.XX.XX.XX-XXXXXXXXX…XDauyldy aldyn ala eskertu. XXXX…X uchaskesinde zhel kotergen tolkyndarShotormovoe preduprezhdenie. Nagonnye volny na uchastke XXXX…X
+
+";
+
+реттік нөмірі 53-жол мынадай редакцияда жазылсын:
+
+"
+
+
+53	|	Су деңгейінің жоғары болуы (су басуы)	|	20501	|	1) Қауіп-қатер кезінде:Қазақ тілінде:XX.XX.XX.XX.XX-XXXXXXXXX…XСу басу қатеріОрыс тілінде:Угроза наводнения	|	1) Қауіп-қатер кезінде:XX.XX.XX.XX.XX-XXXXXXXXX…XSu basu kateriUgroza navodneniya
+2) Нақты жағдайда:Қазақ тілінде:XX.XX.XX.XX.XX-XXXXXXXXX…XСу басуОрыс тілінде:Наводнение	|	2) Нақты жағдайда:XX.XX.XX.XX.XX-XXXXXXXXX…XSu basuNavodneniyе
+3) Қауіп-қатер алынған кезде:Қазақ тілінде:XX.XX.XX.XX.XX-XXXXXXXXX…XСу басу қатері жоқОрыс тілінде:Снятие угрозы наводнения	|	3) Қауіп-қатер алынған кезде:Қазақ тілінде:XX.XX.XX.XX.XX-XXXXXXXXX…XSu basu kateri zhokSnyatie ugrozy navodneniya
+1) Қауіп-қатер кезінде:Қазақ тілінде:XX.XX.XX.XX.XX-XXXXXXXXX…XXXXX...X су басу қатеріОрыс тілінде:Угроза наводнения в XXXX...X	|	1) Қауіп-қатер кезінде:XX.XX.XX.XX.XX-XXXXXXXXX…XXXXXX su basu kateriUgroza navodneniya v XXXX…X
+2) Нақты жағдайда:Қазақ тілінде:XX.XX.XX.XX.XX-XXXXXXXXX…XXXXX...X елді мекендерді және ХХХХ...Х жол учаскелерін су бастыОрыс тілінде:Подтоплены населенные пункты XXXX...X и участки дорог XXXX...X	|	2) Нақты жағдайда:XX.XX.XX.XX.XX-XXXXXXXXX…XXXXX…X eldi mekenderdi zhane XXXX…X zhol uchaskelerin su bastyPodtopleny naselennye punkty XXXX…X i uchastki dorog XXXX…X
+3) Нақты жағдайда:Қазақ тілінде:XX.XX.XX.XX.XX-XXXXXXXXX…X Өзендерде су деңгейінің көтерілуіОрыс тілінде:XX.XX.XX.XX.XX-XXXXXXXXX…X Подъемы уровня воды на реках	|	3) XX.XX.XX.XX.XX-XXXXXXXXX…XXXXX...Х Ozenderde su dengeyinin koteriluiXX.XX.XX.XX.XX-XXXXXXXXX…XXXXX...Х Podyomy urovnya vody na rekah
+
+";
+
+реттік нөмірі 72-жол мынадай редакцияда жазылсын:
+
+"
+
+
+72	|	Қауіпті жұқпалы аурулардың эпидемиялық шығуы	|	20803	|	1) Қауіп-қатер кезінде:Қазақ тілінде:XX.XX.XX.XX.XXXXXXXXXX…XҚауіпті жұқпалы аурулардың эпидемиялық шығу қатеріОрыс тілінде:Угроза возникновения эпидемической вспышки опасных инфекционных заболеваний	|	1) Қауіп-қатер кезінде:XX.XX.XX.XX.XXXXXXXXXXX…XKauіptі zhukpali aurulardin epidemiyalyk shigu katerіUgroza vozniknoveniya epidemicheskoy vspyshki opasnyh infekcionnyh zabolevaniy
+2) Нақты жағдайда:Қазақ тілінде:XX.XX.XX.XX.XXXXXXXXXXX…XҚауіпті жұқпалы аурулардың эпидемиялық шығу жағдайлары тіркелдіОрыс тілінде:Зарегистрированы случаи эпидемической вспышки опасных инфекционных заболеваний	|	2) Нақты жағдайда:ХХ.ХХ.ХХ.ХХ.ХХ.XXXXXXXXX…XKauіptі zhukpali aurulardin epidemiyalyk shigu zhagdailary tirkeldyZaregistrirovany sluchai epidemicheskoy vspyshki opasnyh infekcionnyh zabolevaniy
+3) Қауіп-қатер алынған кезде:Қазақ тілінде:XX.XX.XX.XX.XXXXXXXXXXX…XҚауіпті жұқпалы аурулардың эпидемиялық шығу қатері жоқОрыс тілінде:Снята угроза возникновения эпидемической вспышки опасных инфекционных заболеваний	|	3) Қауіп-қатер алынған кезде:ХХ.ХХ.ХХ.ХХ.ХХ.XXXXXXXXX…XKauіptі zhukpali aurulardin epidemiyalyk shigu katerі zhokSnyata ugroza vozniknoveniya epidemicheskoy vspyshki opasnyh infekcionnyh zabolevaniy
+2) Нақты жағдайда:Қазақ тілінде:XX.XX.XX.XX.XXXXXXXXXXX…XXXXX...X елді мекендерінде ХХХХ...Х карантин жарияланды.Қозғалысқа шектеу қойылғанОрыс тілінде:Объявлен карантин XXXX…X в населенных пунктах XXXX…X. Проезд ограничен	|	2) Нақты жағдайда:ХХ.ХХ.ХХ.ХХ.ХХ.XXXXXXXXX…XXXXX…X eldi mekenderinde XXXX…X karantin zhariyalandy.Kozgalyska shekteu koiylganObyavlen karantin XXXX…X v naselennyh punktah XXXX…X.Proezd ogranichen
+1) Қауіп-қатер кезінде:Қазақ тілінде:XX.XX.XX.XX.XX-XXXXXXXXX…XXXXX...Х карантин енгізіледіОрыс тілінде:XXXX...Х вводится карантин	|	1) Қауіп-қатер кезінде:XX.XX.XX.XX.XX-XXXXXXXXX…XXXXX...Хkarantin engizilediXXXX...Хvvoditsya karantin
+2) Нақты жағдайда:Қазақ тілінде:XX.XX.XX.XX.XX-XXXXXXXXX…XXXXX...Х кіруі-шығуы шектеледіОрыс тілінде:XXXX...Х ограничен въезд-выезд	|	2) Нақты жағдайда:XX.XX.XX.XX.XX-XXXXXXXXX…XXXXX...Х kiry-shygyy shektelediXXXX...Х ogranichen vezd-vyezd
+3) Нақты жағдайда:Қазақ тілінде:XX.XX.XX.XX.XX-XXXXXXXXX…XXXXX...Х қоғамдық көлік ХХ.ХХ-ден ХХ.ХХ-ға дейін тоқтатылдыОрыс тілінде:XXXX…X приостановлен общественный транспорт с ХХ.ХХ до ХХ.ХХ	|	3) Нақты жағдайда:XX.XX.XX.XX.XX-XXXXXXXXX…XXXXX...Х qogamdyq kolik ХХ.ХХ-den ХХ.ХХ-ga deiin toktatyldyXXXX…X Priostanovlen obshestvennyi transport s ХХ.ХХ dо ХХ.ХХ
+4) Қауіп-қатер кезінде:Қазақ тілінде:XX.XX.XX.XX.XX-XXXXXXXXX…XXXXX...Х қоғамдық көлік қозғалысы ХХ.ХХ-ден ХХ.ХХ-ге дейін шектеуліОрыс тілінде:XXXX…X ограничено движение общественного транспорта с ХХ.ХХ до ХХ.ХХ	|	4) Қауіп-қатер кезінде:XX.XX.XX.XX.XX-XXXXXXXXX…XXXXX...Х qogamdyq kolik qozgalysy ХХ.ХХ-den ХХ.ХХ-ge deiin shekteyliOgranicheno dvijenie obshestvennogo transporta XX.XX do XX.XX
+5) Қауіп-қатер алынған кездеҚазақ тілінде:XX.XX.XX.XX.XX-XXXXXXXXX…XXXXX...Х қоғамдық көлік қозғалысының шектеуі алындыОрыс тілінде:XXXX…X снято ограничение движения общественного транспорта	|	5) Қауіп-қатер алынған кездеXX.XX.XX.XX.XX-XXXXXXXXX…XXXXX...Х qogamdyq kolik qozgalysynyn shekteyi alyndyXXXX…Xsnato ogranichenie dvijenia obshestvennogo transporta
+
+";
+
+реттік нөмірі 110-жол мынадай редакцияда жазылсын:
+
+"
+
+
+110	|	Мас және нашақорлық күйде жәбірленгендер	|	21805	|	1) Қауіп-қатер кезінде:Қазақ тілінде:XX.XX.XX.XX.XXXXXXXXXXX…XМас күйде шомылуға болмайдыОрыс тілінде:Купание в пьяном виде запрещено	|	1) Қауіп-қатер кезінде:XX.XX.XX.XX.XXXXXXXXXXX…XMas küide shomyluga bolmaidyKupanie v piyanom vide zapresheno
+2) Нақты жағдайда:Қазақ тілінде:XX.XX.XX.XX.XXXXXXXXXXX…XМас күйде суға батқандар саны өстіОрыс тілінде:Рост числа утонувших в пьяном виде	|	2) Нақты жағдайда:XX.XX.XX.XX.XXXXXXXXXXX…XMas küide suga batkandar sany ostiRost chisla utonuvshyh v piyanom vide
+3) Қауіп-қатер кезінде:Қазақ тілінде:XX.XX.XX.XX.XXБелгіленбеген орындарда шомылуға тыйым салынадыОрыс тілінде:Купаниe в не установленных местах запрещается	|	3) XX.XX.XX.XX.XXBelgilenbegen oryndarda shomyluga tyiym salinadiKupanie v ne ustanovlennih mestah zapreshaetsya
+4) Қауіп-қатер кезінде:Қазақ тілінде:XX.XX.XX.XX.XXСу айдындарында балаларды ересектердің қарауынсыз қалдырмаңыздарОрыс тілінде:Неоставляйте детей на водоемах без присмотра взрослых	|	4) XX.XX.XX.XX.XXSu aidyndarynda balalardy eresekterdin karauynsyz kaldyrmanyzdarNe ostavlyaite detei na vodoemah bez prismotra vzroslih
+
+";
+
+реттік нөмірі 177-жол мынадай редакцияда жазылсын:
+
+"
+
+
+177	|	Атмосфералық ауадағы зиянды заттардың шекті жол берілген концентрациясынан асып кетуі	|	10402	|	1) Қауіп-қатер кезінде:Қазақ тілінде:XX.XX.XX.XX.XXXXXXXXXXX… XАтмосфералық ауадағы зиянды заттардың шекті жол берілген концентрациясынан асып кету қатеріОрыс тілінде:Угроза превышения ПДК вредных веществ в атмосферном воздухе XXXXX	|	1) Қауіп-қатер кезінде:XX.XX.XX.XX.XXXXXXXXXXX… XAtmosferalyk auadagy ziyandy zattardyn shekty zhol berilgen koncentraciyasynan asyp ketu kateriUgroza prevysheniya PDK vrednyh veshestv v atmosfernom vozduhe XXXXXXXXXXXXX
+2) Нақты жағдайда:Қазақ тілінде:XX.XX.XX.XX.XXXXXXXXXXX… XАтмосфералық ауадағы зиянды заттардың шекті жол берілген концентрациясынан асып кетуіОрыс тілінде:Превышение ПДК вредных веществ в атмосферном воздухе XXXXXXXXX	|	2) Нақты жағдайда:XX.XX.XX.XX.XXXXXXXXXXX… XAtmosferalyk auadagy ziyandy zattardyn shekty zhol berilgen koncentraciyasynan asyp ketuРrevyshenie PDK vrednyh veshestv v atmosfernom vozduhe XXXXXXXXXXXXX
+3) Қауіп-қатер алынған кезде:Қазақ тілінде:XX.XX.XX.XX.XXXXXXXXXXX… XАтмосфералық ауадағы зиянды заттардың шекті жол берілген концентрациясынан асып кету қатері жоқОрыс тілінде:Снятие угрозы превышения ПДК вредных веществ в атмосферном воздухе с ХХ.ХХ до ХХ.ХХ	|	3) Қауіп-қатер алынған кезде:XX.XX.XX.XX.XXXXXXXXXXX… XAtmosferalyk auadagy ziyandy zattardyn shekty zhol berilgen koncentraciyasynan asyp ketu kateri zhokSnyatie ugrozy prevysheniya PDK vrednyh veshestv v atmosfernom vozduhe s ХХ.ХХ dо ХХ.ХХ
+4) Қауіп-қатер кезінде:Қазақ тілінде:XX.XX.XX.XX.XXXXXXXXXXX… XАтмосфералық ауадағы зиянды заттардың шекті жол берілген концентрациясынан асып кету қатері. Хабарлама ТВ арналары бойынша ХХ ден ХХ дейінОрыс тілінде:Угроза превышения ПДК вредных веществ в атмосферном воздухе. Сообщение по ТВ каналам с ХХ.ХХ до ХХ.ХХ	|	4) Қауіп-қатер кезінде:XX.XX.XX.XX.XXXXXXXXXXX… XAtmosferalyq ayadagy ziandy zattardyn shekti jol berilgen konsentrasiasynan asyp kety qateri. Habarlama TV arnalary boiynshaХХ den ХХ de deiinUgroza prevysheniya PDK v atmosfernom vozduxe. Soobshenie po TV kanalams ХХ.ХХ dо ХХ.ХХ
+5) Нақты жағдайда:Қазақ тілінде:XX.XX.XX.XX.XXXXXXXXXXX… XАтмосфералық ауадағы зиянды заттардың шекті жол берілген концентрациясынан асып кетуі. Pадио және ТВ бойынша ТЖД нұсқауларын орындаңыздар.Орыс тілінде:Превышение ПДК вредных веществ в атмосферном воздухе. Действуйте указаниям ДЧС по радио и ТВ с ХХ.ХХ до ХХ.ХХ	|	Нақты жағдайда:.XX.XX.XX.XXXXXXXXXXX… XAtmosferalyq ayadagy ziandy zattardyn shekti jol berilgen konsentrasiasynan asyp ketyi. Radio jane TV boiynsha TJD nusqaylaryn oryndanyzdarPrivyshenie PDK vrednyx veshestv v atmosfernom vozduxe. Deistvuite ukazaniyam DCHS po radio i TV s ХХ.ХХ dо ХХ.ХХ
+
+".
+
+2. Қазақстан Республикасы Цифрлық даму, инновациялар және аэроғарыш өнеркәсібі министрлігінің Байланыс саласындағы мемлекеттік саясат және инфрақұрылым департаменті заңнамада белгіленген тәртіппен:
+
+1) осы бұйрықты Қазақстан Республикасының Әділет министрлігінде мемлекеттік тіркеуді;
+
+2) осы бұйрық ресми жарияланғаннан кейін оны Қазақстан Республикасы Цифрлық даму, инновациялар және аэроғарыш өнеркәсібі министрлігінің интернет-ресурсында орналастыруды;
+
+3) осы бұйрық мемлекеттік тіркелгеннен кейін он жұмыс күні ішінде Қазақстан Республикасы Цифрлық даму, инновациялар және аэроғарыш өнеркәсібі министрлігінің Заң департаментіне осы тармақтың 1) және 2) тармақшаларында көзделген іс-шаралардың орындалуы туралы мәліметтер ұсынуды қамтамасыз етсін.
+
+3. Осы бұйрықтың орындалуын бақылау жетекшілік ететін Қазақстан Республикасының Цифрлық даму, инновациялар және аэроғарыш өнеркәсібі вице-министріне жүктелсін.
+
+4. Осы бұйрық алғашқы ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі.
+
+
+Қазақстан  РеспубликасыныңЦифрлық даму, инновациялар жәнеаэроғарыш өнеркәсібі министрі	|	Б. Мусин
+
+
+
+	|	
+
+
+КЕЛІСІЛДІҚазақстанРеспубликасыныңҚорғанысминистрлігі
+КЕЛІСІЛДІҚазақстанРеспубликасыныңТөтенше жағдайларминистрлігі
+КЕЛІСІЛДІҚазақстанРеспубликасыныңҰлттыққауіпсіздік комитеті
+КЕЛІСІЛДІҚазақстанРеспубликасыныңІшкі істер министрлігі
+
+

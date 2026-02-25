@@ -1,0 +1,1981 @@
+{
+  "experiment_metadata": {
+    "timestamp": "2026-01-24",
+    "run_id": "run_20260124_233810",
+    "framework": "Custom Python RAG pipeline",
+    "hardware": "MacOS (Apple Silicon)",
+    "models_planned": [
+      "gpt-4o",
+      "gpt-4o-mini",
+      "gpt-5",
+      "gpt-5-mini",
+      "o1",
+      "o1-mini"
+    ]
+  },
+  "corpus_statistics": {
+    "total_documents": 12886,
+    "total_chunks": 263326,
+    "total_tokens_approx": 41637443,
+    "avg_tokens_per_chunk": 158.1,
+    "corpus_description": "Kazakhstani legal documents corpus (laws, regulations, decrees)",
+    "language": "Kazakh (Cyrillic script)"
+  },
+  "indexing_statistics": {
+    "chunking": {
+      "method": "tiktoken (cl100k_base)",
+      "chunk_size": 900,
+      "chunk_overlap": 150
+    },
+    "bm25": {
+      "tokenizer": "KazakhTokenizer (fallback whitespace)",
+      "index_file_size_mb": 357.8
+    },
+    "vector": {
+      "embedding_model": "text-embedding-3-small",
+      "embedding_dim": 1536,
+      "index_type": "FAISS IndexFlatIP",
+      "index_file_size_mb": 1542.9
+    }
+  },
+  "question_generation": {
+    "total_questions": 100,
+    "generation_method": "LLM-based (gpt-4o-mini)",
+    "source": "Random chunks from corpus",
+    "format": {
+      "question": "Legal question in Kazakh",
+      "gold_answer": "Reference answer in Kazakh",
+      "gold_passages": "List of source chunk references"
+    }
+  },
+  "retrieval_evaluation": {
+    "parameters": {
+      "top_k": 6,
+      "num_questions": 100,
+      "methods_compared": [
+        "BM25",
+        "Vector (Dense)",
+        "Hybrid (RRF)"
+      ]
+    },
+    "aggregated_metrics": {
+      "bm25": {
+        "recall_at_k": {
+          "mean": 0.12,
+          "std": 0.3265986323710904,
+          "n": 100
+        },
+        "precision_at_k": {
+          "mean": 0.019999999999999997,
+          "std": 0.054433105395181744,
+          "n": 100
+        },
+        "mrr": {
+          "mean": 0.06216666666666667,
+          "std": 0.20860897589997934,
+          "n": 100
+        },
+        "ndcg_at_k": {
+          "mean": 0.07609017540583017,
+          "std": 0.22704076860236402,
+          "n": 100
+        }
+      },
+      "vector": {
+        "recall_at_k": {
+          "mean": 0.02,
+          "std": 0.14070529413628965,
+          "n": 100
+        },
+        "precision_at_k": {
+          "mean": 0.003333333333333333,
+          "std": 0.023450882356048284,
+          "n": 100
+        },
+        "mrr": {
+          "mean": 0.0125,
+          "std": 0.1028323633371078,
+          "n": 100
+        },
+        "ndcg_at_k": {
+          "mean": 0.01430676558073393,
+          "std": 0.1084795723234199,
+          "n": 100
+        }
+      },
+      "hybrid": {
+        "recall_at_k": {
+          "mean": 0.05,
+          "std": 0.21904291355759034,
+          "n": 100
+        },
+        "precision_at_k": {
+          "mean": 0.008333333333333333,
+          "std": 0.036507152259598386,
+          "n": 100
+        },
+        "mrr": {
+          "mean": 0.027000000000000003,
+          "std": 0.1458513456889641,
+          "n": 100
+        },
+        "ndcg_at_k": {
+          "mean": 0.032430599943425634,
+          "std": 0.15639125609594903,
+          "n": 100
+        }
+      }
+    }
+  },
+  "detailed_analysis": {
+    "bm25": {
+      "questions_with_hit": 12,
+      "questions_with_perfect_recall": 12,
+      "hit_rate_percent": 12
+    },
+    "vector": {
+      "questions_with_hit": 2,
+      "questions_with_perfect_recall": 2,
+      "hit_rate_percent": 2
+    },
+    "hybrid": {
+      "questions_with_hit": 5,
+      "questions_with_perfect_recall": 5,
+      "hit_rate_percent": 5
+    },
+    "per_question_results": {
+      "bm25": [
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 1.0,
+          "precision_at_k": 0.16666666666666666,
+          "mrr": 0.2,
+          "ndcg_at_k": 0.38685280723454163
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 1.0,
+          "precision_at_k": 0.16666666666666666,
+          "mrr": 1.0,
+          "ndcg_at_k": 1.0
+        },
+        {
+          "recall_at_k": 1.0,
+          "precision_at_k": 0.16666666666666666,
+          "mrr": 0.2,
+          "ndcg_at_k": 0.38685280723454163
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 1.0,
+          "precision_at_k": 0.16666666666666666,
+          "mrr": 0.2,
+          "ndcg_at_k": 0.38685280723454163
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 1.0,
+          "precision_at_k": 0.16666666666666666,
+          "mrr": 1.0,
+          "ndcg_at_k": 1.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 1.0,
+          "precision_at_k": 0.16666666666666666,
+          "mrr": 0.25,
+          "ndcg_at_k": 0.43067655807339306
+        },
+        {
+          "recall_at_k": 1.0,
+          "precision_at_k": 0.16666666666666666,
+          "mrr": 0.3333333333333333,
+          "ndcg_at_k": 0.5
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 1.0,
+          "precision_at_k": 0.16666666666666666,
+          "mrr": 0.3333333333333333,
+          "ndcg_at_k": 0.5
+        },
+        {
+          "recall_at_k": 1.0,
+          "precision_at_k": 0.16666666666666666,
+          "mrr": 0.2,
+          "ndcg_at_k": 0.38685280723454163
+        },
+        {
+          "recall_at_k": 1.0,
+          "precision_at_k": 0.16666666666666666,
+          "mrr": 0.5,
+          "ndcg_at_k": 0.6309297535714575
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 1.0,
+          "precision_at_k": 0.16666666666666666,
+          "mrr": 1.0,
+          "ndcg_at_k": 1.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 1.0,
+          "precision_at_k": 0.16666666666666666,
+          "mrr": 1.0,
+          "ndcg_at_k": 1.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        }
+      ],
+      "vector": [
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 1.0,
+          "precision_at_k": 0.16666666666666666,
+          "mrr": 1.0,
+          "ndcg_at_k": 1.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 1.0,
+          "precision_at_k": 0.16666666666666666,
+          "mrr": 0.25,
+          "ndcg_at_k": 0.43067655807339306
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        }
+      ],
+      "hybrid": [
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 1.0,
+          "precision_at_k": 0.16666666666666666,
+          "mrr": 1.0,
+          "ndcg_at_k": 1.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 1.0,
+          "precision_at_k": 0.16666666666666666,
+          "mrr": 1.0,
+          "ndcg_at_k": 1.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 1.0,
+          "precision_at_k": 0.16666666666666666,
+          "mrr": 0.3333333333333333,
+          "ndcg_at_k": 0.5
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 1.0,
+          "precision_at_k": 0.16666666666666666,
+          "mrr": 0.16666666666666666,
+          "ndcg_at_k": 0.3562071871080222
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 1.0,
+          "precision_at_k": 0.16666666666666666,
+          "mrr": 0.2,
+          "ndcg_at_k": 0.38685280723454163
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        },
+        {
+          "recall_at_k": 0.0,
+          "precision_at_k": 0.0,
+          "mrr": 0.0,
+          "ndcg_at_k": 0.0
+        }
+      ]
+    }
+  },
+  "findings": {
+    "main_result": "BM25 outperforms dense retrieval for Kazakh legal domain",
+    "ranking": [
+      "BM25 (Recall@6: 12%)",
+      "Hybrid (Recall@6: 5%)",
+      "Vector (Recall@6: 2%)"
+    ],
+    "observations": [
+      "BM25 shows 6x better recall than dense retrieval",
+      "Hybrid method underperforms pure BM25, suggesting suboptimal fusion",
+      "Low absolute metrics due to gold passage alignment issues",
+      "Dense embeddings struggle with Kazakh legal terminology"
+    ],
+    "limitations": [
+      "Gold passages generated from chunk headers, not main content",
+      "Questions based on chunk_id=0 which often contains document preamble",
+      "KazNLP tokenizer not available, using whitespace fallback",
+      "Single gold passage per question (no multi-passage relevance)"
+    ],
+    "recommendations": [
+      "Regenerate questions from content-rich chunks (not headers)",
+      "Use multiple gold passages per question",
+      "Fine-tune embeddings for Kazakh legal domain",
+      "Optimize hybrid RRF parameters via grid search"
+    ]
+  }
+}

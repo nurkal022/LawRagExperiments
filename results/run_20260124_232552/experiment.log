@@ -1,0 +1,31 @@
+2026-01-24 23:25:52 | INFO | Chunks already exist at /Users/nurlykhan/rag_paper/data/chunks/all_chunks.json
+2026-01-24 23:25:52 | INFO | BM25 index already exists at /Users/nurlykhan/rag_paper/data/index/bm25_kaznlp.pkl
+2026-01-24 23:25:52 | INFO | FAISS index already exists at /Users/nurlykhan/rag_paper/data/index/faiss_index.faiss
+2026-01-24 23:25:52 | INFO | ======================================================================
+2026-01-24 23:25:52 | INFO | EXPERIMENT RUN: 20260124_232552
+2026-01-24 23:25:52 | INFO | ======================================================================
+2026-01-24 23:25:52 | INFO | 
+[1/6] Loading questions...
+2026-01-24 23:25:52 | INFO |   Loaded 100 questions
+2026-01-24 23:25:52 | INFO | 
+[2/6] Loading chunk index...
+2026-01-24 23:25:52 | INFO |   Index has 12886 documents
+2026-01-24 23:25:52 | INFO | 
+[3/6] Loading chunks...
+2026-01-24 23:25:55 | INFO |   Loaded 263326 chunks in 2.3s
+2026-01-24 23:25:55 | INFO | 
+[4/6] Loading retrievers...
+2026-01-24 23:25:55 | INFO |   Loading BM25 retriever...
+2026-01-24 23:26:01 | INFO |     BM25 loaded in 6.5s
+2026-01-24 23:26:01 | INFO |   Loading Vector retriever...
+2026-01-24 23:26:05 | INFO |     Vector loaded in 3.4s
+2026-01-24 23:26:05 | INFO |   Loading Hybrid retriever...
+2026-01-24 23:26:19 | INFO |     Hybrid loaded in 14.4s
+2026-01-24 23:26:19 | INFO | 
+[5/6] Models to evaluate: ['GPT-4o', 'GPT-4o-mini', 'GPT-5', 'GPT-5-mini', 'o1', 'o1-mini']
+2026-01-24 23:26:19 | INFO |   Retrieval methods: ['bm25', 'vector', 'hybrid']
+2026-01-24 23:26:19 | INFO | 
+======================================================================
+2026-01-24 23:26:19 | INFO | RETRIEVAL EVALUATION
+2026-01-24 23:26:19 | INFO | ======================================================================
+2026-01-24 23:26:19 | DEBUG | Q1: Сколиозбен байланысты емес омыртқаның туа біткен а... | Gold: {167356}

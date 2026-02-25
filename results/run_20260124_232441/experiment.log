@@ -1,0 +1,18 @@
+2026-01-24 23:24:42 | INFO | Chunks already exist at /Users/nurlykhan/rag_paper/data/chunks/all_chunks.json
+2026-01-24 23:24:42 | INFO | BM25 index already exists at /Users/nurlykhan/rag_paper/data/index/bm25_kaznlp.pkl
+2026-01-24 23:24:42 | INFO | FAISS index already exists at /Users/nurlykhan/rag_paper/data/index/faiss_index.faiss
+2026-01-24 23:24:42 | INFO | ======================================================================
+2026-01-24 23:24:42 | INFO | EXPERIMENT RUN: 20260124_232442
+2026-01-24 23:24:42 | INFO | ======================================================================
+2026-01-24 23:24:42 | INFO | 
+[1/6] Loading questions...
+2026-01-24 23:24:42 | INFO |   Loaded 100 questions
+2026-01-24 23:24:42 | INFO | 
+[2/6] Loading chunk index...
+2026-01-24 23:24:42 | INFO |   Index has 12886 documents
+2026-01-24 23:24:42 | INFO | 
+[3/6] Loading chunks...
+2026-01-24 23:24:44 | INFO |   Loaded 263326 chunks in 2.3s
+2026-01-24 23:24:44 | INFO | 
+[4/6] Loading retrievers...
+2026-01-24 23:24:44 | INFO |   Loading BM25 retriever...
