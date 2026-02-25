@@ -116,8 +116,8 @@ Results are saved to timestamped directories under `results/`.
 | GPT-4o-mini | gpt-4o-mini | 0.3 | 500 |
 | GPT-5 | gpt-5 | 0.3 | 500 |
 | GPT-5-mini | gpt-5-mini | 0.3 | 500 |
-| o1 | o1 | 1.0 | 500 |
-| o1-mini | o1-mini | 1.0 | 500 |
+| o1 | o1 | 0.3 | 500 |
+| o1-mini | o1-mini | 0.3 | 500 |
 
 ## Retrieval Methods
 
@@ -153,3 +153,4 @@ Generation (RAG) System for the Kazakh Language Using Hybrid Information Methods
 ## License
 
 The corpus data (`kaz/`) is from the [Mendeley Data repository](https://doi.org/10.17632/jdpc5658nh.3) under CC BY 4.0 license.
+
